@@ -1,0 +1,2 @@
+module DemoP.O.O {
+}
